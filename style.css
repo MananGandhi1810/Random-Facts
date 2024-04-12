@@ -9,8 +9,6 @@ div {
     text-align: center;
     align-items: center;
     height: 100vh;
-    padding-left: 100px;
-    padding-right: 100px;
     color: orange;
     overflow: hidden;
 }
